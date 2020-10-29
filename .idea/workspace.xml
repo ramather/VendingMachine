@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d62efc9-2c8b-4a8f-a99a-06310acdbb0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ib42DjXZy719TXXXnjVGuWMAxN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.catalog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.techelevator" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VendingMachineTests">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.Application" />
+      <module name="m1-java-capstone-vending-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m1-java-capstone-vending-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.VendingMachineTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineTests.chips_returns_crunch_crunch_yum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m1-java-capstone-vending-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.VendingMachineTests" />
+      <option name="METHOD_NAME" value="chips_returns_crunch_crunch_yum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineTests.item_was_purchased" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m1-java-capstone-vending-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.VendingMachineTests" />
+      <option name="METHOD_NAME" value="item_was_purchased" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingMachineTests.one_dollar_returns_4_quarters_change" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m1-java-capstone-vending-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.techelevator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.techelevator" />
+      <option name="MAIN_CLASS_NAME" value="com.techelevator.VendingMachineTests" />
+      <option name="METHOD_NAME" value="one_dollar_returns_4_quarters_change" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VendingMachineTests" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.VendingMachineTests.one_dollar_returns_4_quarters_change" />
+        <item itemvalue="JUnit.VendingMachineTests.item_was_purchased" />
+        <item itemvalue="JUnit.VendingMachineTests.chips_returns_crunch_crunch_yum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Program Files\Git\bin\bash.exe" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2632" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1602186518468">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2632" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602186518468" />
+    <state x="2654" y="397" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1602188742208">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2654" y="397" width="433" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602188742208" />
+    <state x="2655" y="287" key="FileChooserDialogImpl" timestamp="1602617744250">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2655" y="287" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602617744250" />
+    <state x="322" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1603330495749">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="322" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603330495749" />
+    <state width="1763" height="349" key="GridCell.Tab.0.bottom" timestamp="1603804902734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1777" height="258" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1602280032968" />
+    <state width="1625" height="189" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603045539675" />
+    <state width="1773" height="372" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602440273140" />
+    <state width="1763" height="349" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603804902734" />
+    <state width="1763" height="209" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603758149860" />
+    <state width="1763" height="349" key="GridCell.Tab.0.center" timestamp="1603804902734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1777" height="258" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1602280032968" />
+    <state width="1625" height="189" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603045539674" />
+    <state width="1773" height="372" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1602440273140" />
+    <state width="1763" height="349" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603804902734" />
+    <state width="1763" height="209" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603758149860" />
+    <state width="1763" height="349" key="GridCell.Tab.0.left" timestamp="1603804902734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1777" height="258" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1602280032968" />
+    <state width="1625" height="189" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603045539674" />
+    <state width="1773" height="372" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1602440273140" />
+    <state width="1763" height="349" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603804902734" />
+    <state width="1763" height="209" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603758149860" />
+    <state width="1763" height="349" key="GridCell.Tab.0.right" timestamp="1603804902734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1777" height="258" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1602280032968" />
+    <state width="1625" height="189" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1603045539674" />
+    <state width="1773" height="372" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1602440273140" />
+    <state width="1763" height="349" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603804902734" />
+    <state width="1763" height="209" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603758149860" />
+    <state width="1763" height="349" key="GridCell.Tab.1.bottom" timestamp="1603804902734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1783" height="353" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602255831987" />
+    <state width="1783" height="353" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1602290995842" />
+    <state width="1763" height="349" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603804902734" />
+    <state width="1763" height="349" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603755070970" />
+    <state width="1763" height="349" key="GridCell.Tab.1.center" timestamp="1603804902734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1783" height="353" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602255831987" />
+    <state width="1783" height="353" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1602290995842" />
+    <state width="1763" height="349" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603804902734" />
+    <state width="1763" height="349" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603755070970" />
+    <state width="1763" height="349" key="GridCell.Tab.1.left" timestamp="1603804902734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1783" height="353" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602255831987" />
+    <state width="1783" height="353" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1602290995842" />
+    <state width="1763" height="349" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603804902734" />
+    <state width="1763" height="349" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603755070970" />
+    <state width="1763" height="349" key="GridCell.Tab.1.right" timestamp="1603804902734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1783" height="353" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602255831987" />
+    <state width="1783" height="353" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1602290995842" />
+    <state width="1763" height="349" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1603804902734" />
+    <state width="1763" height="349" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1603755070970" />
+    <state x="2500" y="193" key="new project wizard" timestamp="1602617746426">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2500" y="193" key="new project wizard/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602617746426" />
+    <state x="2533" y="247" width="672" height="678" key="search.everywhere.popup" timestamp="1602269902902">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2533" y="247" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602269902902" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/m1_java_capstone_vending_machine$VendingMachineTests.ic" NAME="VendingMachineTests Coverage Results" MODIFIED="1603758149839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.techelevator.*</FILTER>
+    </SUITE>
+  </component>
+</project>
